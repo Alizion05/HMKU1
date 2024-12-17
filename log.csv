@@ -1,0 +1,3 @@
+timestamp,user,action
+2024-12-10T23:29:55.972347,user,ls
+2024-12-10T23:30:01.015680,user,cd subdir
